@@ -12,11 +12,6 @@ Checkout the live demo of CartLoop:
 
 ---
 
-### ⭐ Give a Star
-
-If you found this project helpful or inspiring, please consider giving it a star on GitHub 🌟
-
-👉 [https://github.com/CartLoop](https://github.com/Karan-Salvi/Eccomerce-Web-Application)
 
 
 ---
@@ -77,11 +72,6 @@ If you found this project helpful or inspiring, please consider giving it a star
 - npm or yarn
 
 ---
-
-Clone the repository:
-   ```bash
-   git clone https://github.com/Karan-Salvi/Eccomerce-Web-Application.git
-   ```
 
 ### 🔌 Backend Setup
 
@@ -193,18 +183,6 @@ We welcome contributions! Feel free to:
 
 ---
 
-## 📝 License
 
-Licensed under the [MIT License](LICENSE).
-
----
-
-## 📧 Contact
-
-For support or collaboration:
-
-- ✉️ Email: karansalviwork@gmail.com  
-- 🌐 Portfolio: [KaranSalvi.com](https://karansalvi.vercel.app/)  
-- 📦 GitHub: [KaranSalvi](https://github.com/Karan-Salvi)  
 
 
